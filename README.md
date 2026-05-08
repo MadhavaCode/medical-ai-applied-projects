@@ -1,4 +1,4 @@
-# medical-ai-applied-projects
+# Medical AI Applied Projects
 
 Deep learning applied to medical imaging and biometric analysis.
 
